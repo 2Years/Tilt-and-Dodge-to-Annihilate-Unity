@@ -18,7 +18,7 @@ public class EnemySpawn : MonoBehaviour {
 	}
 
 	void Update () {
-
+        
 	}
 	IEnumerator Spawn_ernd(){
 		while(true){

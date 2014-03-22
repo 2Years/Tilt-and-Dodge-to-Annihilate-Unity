@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\Unity\Projects\Tilt ad Dodge to Annihilate\Assets\Scripts\ExplosionBehavior\BombExplosion.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ExplosionBehavior\BombExplosion.cs">
     <Files>
-      <File FileName="..\..\..\..\..\Unity\Projects\Tilt ad Dodge to Annihilate\Assets\Scripts\ExplosionBehavior\BombExplosion.cs" Line="37" Column="1" />
-      <File FileName="..\..\..\..\..\Unity\Projects\Tilt ad Dodge to Annihilate\Assets\Scripts\ItemSpawn.cs" Line="15" Column="20" />
+      <File FileName="Assets\Scripts\ExplosionBehavior\BombExplosion.cs" Line="37" Column="1" />
+      <File FileName="Assets\Scripts\ItemSpawn.cs" Line="15" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

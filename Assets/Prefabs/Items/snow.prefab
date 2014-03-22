@@ -12,6 +12,7 @@ GameObject:
   - 114: {fileID: 11400000}
   - 58: {fileID: 5800000}
   - 50: {fileID: 5000000}
+  - 114: {fileID: 11400002}
   m_Layer: 8
   m_Name: snow
   m_TagString: Item
@@ -67,6 +68,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59c6bf019e29d3e4c8c8557b62d18a74, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ba2030f80628f541968841724583dbe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IceExplosion: {fileID: 100000, guid: 79aedcd90df973a46a71b5a6222f92e3, type: 2}
 --- !u!212 &21200000
 SpriteRenderer:
   m_ObjectHideFlags: 1

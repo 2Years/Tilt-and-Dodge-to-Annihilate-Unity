@@ -17,9 +17,7 @@ public class EnemyAI : MonoBehaviour {
 		transform.Translate(Vector3.up*Time.deltaTime*enemyspeed);
 	}
 
-	void OnTriggerStay2D(Collider2D collider){
-		print (collider.gameObject.tag);
-	}
+
 
 
 }
