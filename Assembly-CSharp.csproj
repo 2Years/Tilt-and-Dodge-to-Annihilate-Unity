@@ -47,20 +47,18 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Misc\bordersize.cs" />
-     <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\CameraControl.cs" />
      <Compile Include="Assets\Scripts\EnemyAI.cs" />
      <Compile Include="Assets\Scripts\EnemySpawn.cs" />
-     <Compile Include="Assets\Scripts\ExplosionBehavior\BombExplosion.cs" />
-     <Compile Include="Assets\Scripts\ExplosionBehavior\ExplosionBehavior.cs" />
-     <Compile Include="Assets\Scripts\ExplosionBehavior\IceExplosion.cs" />
+     <Compile Include="Assets\Scripts\ExplosionBehaviour\BombExplosion.cs" />
+     <Compile Include="Assets\Scripts\ExplosionBehaviour\ExplosionBehavior.cs" />
+     <Compile Include="Assets\Scripts\ExplosionBehaviour\IceExplosion.cs" />
      <Compile Include="Assets\Scripts\FrrozenEnemyBehavior.cs" />
-     <Compile Include="Assets\Scripts\ItemBehavior\Bomb.cs" />
-     <Compile Include="Assets\Scripts\ItemBehavior\Ice.cs" />
+     <Compile Include="Assets\Scripts\ItemBehaviour\Bomb.cs" />
+     <Compile Include="Assets\Scripts\ItemBehaviour\Ice.cs" />
      <Compile Include="Assets\Scripts\ItemControl.cs" />
      <Compile Include="Assets\Scripts\ItemSpawn.cs" />
      <Compile Include="Assets\Scripts\PlayerControl.cs" />
-     <Compile Include="Assets\testScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
